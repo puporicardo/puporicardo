@@ -65,13 +65,6 @@ const ricardo = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-### 📊 Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=puporicardo&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puporicardo&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-</div>
-
 ### 📫 Contacto
 
 - 🌐 [ricardopupo.com](https://ricardopupo.com)
